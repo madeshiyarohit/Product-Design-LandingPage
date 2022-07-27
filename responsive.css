@@ -92,4 +92,7 @@
   .imageWithTextSection .rightBox h2 {
     font-size: 32px;
   }
+  .projectBox .boxes .marginBox {
+    margin: 0 !important;
+  }
 }
