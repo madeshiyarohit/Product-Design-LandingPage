@@ -1,0 +1,92 @@
+@media only screen and (max-width: 1160px) {
+  .experienceTopSection .boxes {
+    width: 50%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .imageWithTextSection .leftBox,
+  .imageWithTextSection .rightBox {
+    width: 100%;
+    text-align: center;
+  }
+  .imageWithTextSection .rightBox {
+    padding: 20px 0;
+  }
+  .imageWithTextSection .leftBox img {
+    width: 60%;
+    margin: 0 auto;
+  }
+  .nextProjectSection {
+    flex-wrap: wrap;
+  }
+  .nextProjectSection .leftBox {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 950px) {
+  nav ul li {
+    display: none;
+  }
+  nav ul li.menuIcon {
+    display: block !important;
+  }
+  .projectHighlight {
+    width: 100% !important;
+  }
+  .projectBox .boxes {
+    width: 50%;
+  }
+  .nextProjectSection .leftBox h2 {
+    font-size: 44px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .experienceTopSection .boxes .marginBoxes {
+    padding: 30px 20px;
+  }
+  .imageWithTextSection .rightBox h2 {
+    font-size: 44px;
+  }
+  .featureHeadSection h2 {
+    font-size: 24px;
+  }
+  .nextProjectSection .leftBox h2 {
+    font-size: 32px;
+  }
+  .featureHeadSection {
+    flex-wrap: wrap;
+  }
+  .featureHeadSection div {
+    width: 100%;
+  }
+  .featureHeadSection button {
+    margin: 10px 0;
+  }
+}
+
+@media only screen and (max-width: 620px) {
+  .experienceTopSection .boxes {
+    width: 100%;
+  }
+  .projectSection .projectBoxes {
+    width: 100%;
+  }
+  .projectBox .boxes {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .nextProjectSection .leftBox h2 {
+    font-size: 24px;
+  }
+  .nextProjectSection .leftBox p {
+    padding-right: 0;
+  }
+  footer ul li {
+    padding: 0 10px;
+  }
+  .imageWithTextSection .rightBox h2 {
+    font-size: 32px;
+  }
+}
