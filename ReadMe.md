@@ -4,7 +4,7 @@ This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
 
 ## Project Name : **Product Design Landing Page !**
 
-In this project i have created a Busisness landing page from scratch. And i have learnt a lot of things like how to use flex and how css makes life easier , we can manipulate the things in Html with the help of CSS without touching HTML file in terms of positing and direction not in terms of DOM manipulation😅. 
+In this project i have created a Product landing page from scratch. And i have learnt a lot of things like how to use flex and how css makes life easier , we can manipulate the things in Html with the help of CSS without touching HTML file in terms of positing and direction not in terms of DOM manipulation😅. 
 
 </br>
 
