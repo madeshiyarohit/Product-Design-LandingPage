@@ -20,4 +20,4 @@ In this project i have created a Product landing page from scratch. And i have l
 
 ### You can Check it Live on Below Link :
 
-[My Portfolio Website !](https://product-landing-page-complete.netlify.app/)
+[Live Link !](https://product-landing-page-complete.netlify.app/)
