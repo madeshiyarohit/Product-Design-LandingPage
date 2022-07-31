@@ -1,23 +1,23 @@
 # Hey Welcome Buddy 👋
 
-### This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
+This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
+
+## Project Name : **Product Design Landing Page !**
+
+In this project i have created a Busisness landing page from scratch. And i have learnt a lot of things like how to use flex and how css makes life easier , we can manipulate the things in Html with the help of CSS without touching HTML file in terms of positing and direction not in terms of DOM manipulation😅. 
 
 </br>
 
-## Name of Project : **Product Design Landing Page**
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 </br>
 
-> In this is Project Basically i learnt about flexbox that where and how to use flexbox in our Web Project. And i also get to know that we can not make a fancy or modern looking website without using flexbox as per my experience and i have also learnt how to use media query as well.
+### My Project is looking like :
 
-</br>
+![Web Site Image](./Assets/complete%20SS.png)
 
-### This is How My Project is looking on Desktop.
+### You can Check it Live on Below Link :
 
-</br>
-
-![Image](./Assets/screencapture-127-0-0-1-5501-index-html-2022-07-28-20_56_39.png)
-
-Your Can Check it live on by clicking the below link :
-
-[Product Design Landing Page !!!](https://product-landing-page-complete.netlify.app/ "Product Design Landing page By Rohit Madeshiya")
+[My Portfolio Website !](https://product-landing-page-complete.netlify.app/)
